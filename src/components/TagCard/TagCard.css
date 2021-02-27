@@ -1,0 +1,11 @@
+.TagCard{
+    display: flex;
+    height: fit-content;
+    width: fit-content;
+    background-color: #3463c0;
+    color: white;
+    margin: 5px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+    cursor:pointer;
+}
